@@ -1,0 +1,14 @@
+body{
+	background-color: lime;
+	margin:0px;
+}
+
+#head{
+	margin: 0px; 
+	text-align: center;
+	background-color: black;
+	color:white;
+	}
+	.grp{
+		margin-left: 260px;
+	}
